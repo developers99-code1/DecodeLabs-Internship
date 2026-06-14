@@ -3,9 +3,9 @@
 This repository contains my 1st project for the (DecodeLabs Internship). In this project, I used **Python** to automate the process of cleaning and structuring messy Excel data.
 
 ## Features
-*. Removed duplicate rows and handled missing values.
+* Removed duplicate rows and handled missing values.
 * Fixed inconsistent data formatting.
-3 Automated the entire workflow using Python (Pandas).
+* Automated the entire workflow using Python (Pandas).
 
 ## Files Included
 1 `project.ipynb`: The Jupyter Notebook containing the Python automation code.

@@ -3,8 +3,8 @@
 This repository contains my 1st project for the (DecodeLabs Internship). In this project, I used **Python** to automate the process of cleaning and structuring messy Excel data.
 
 ## Features
-1 Removed duplicate rows and handled missing values.
-2 Fixed inconsistent data formatting.
+*. Removed duplicate rows and handled missing values.
+* Fixed inconsistent data formatting.
 3 Automated the entire workflow using Python (Pandas).
 
 ## Files Included
